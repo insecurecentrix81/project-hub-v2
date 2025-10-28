@@ -130,6 +130,7 @@ body {
 .nav-tools img {
 	padding: 0 0.5vw;
 	cursor: pointer;
+    width: 64px;
 	transition: scale 0.15s;
 }
 
