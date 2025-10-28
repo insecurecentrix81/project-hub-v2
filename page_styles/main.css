@@ -127,14 +127,14 @@ body {
 	right: 0;
 }
 
-.nav-tools img {
+.nav-tools a {
 	padding: 0 0.5vw;
 	cursor: pointer;
-    width: 64px;
+    font-size: 1.2em;
 	transition: scale 0.15s;
 }
 
-.nav-tools img:hover {
+.nav-tools a:hover {
 	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 	scale: 110%;
 }
