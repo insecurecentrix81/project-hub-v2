@@ -127,13 +127,13 @@ body {
 	right: 0;
 }
 
-.nav-tools svg {
+.nav-tools img {
 	padding: 0 0.5vw;
 	cursor: pointer;
 	transition: scale 0.15s;
 }
 
-.nav-tools svg:hover {
+.nav-tools img:hover {
 	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 	scale: 110%;
 }
@@ -178,7 +178,7 @@ body {
 	margin: 5vw;
 }
 
-.mobile-out-tools svg {
+.mobile-out-tools img {
 	margin-left: 5vw;
 }
 

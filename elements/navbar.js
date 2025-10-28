@@ -19,7 +19,7 @@ var navbar = `
                 <i class="fa-solid fa-globe" onclick="toggleTranslate()"></i>
                 <i class="fa-solid fa-circle-half-stroke" onclick="toggleTheme()"></i>
                 -->
-                <img src="img/icons/gear.svg" width="64" onclick="toggleSettings()">
+                <img src="img/icons/gear.svg" width="48" onclick="toggleSettings()">
             </div>
         </header>
         <!--Translate-->
