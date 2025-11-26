@@ -6,6 +6,48 @@ const reviews = [
 		anonymous: false,
 	},
 	{
+		name: 'Saharsh Gobinath',
+		quote: 'Homework is important, but gaming is importanter!',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'The teacher is just an NPC with unskippable dialogue',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'Real life has terrible graphics, no respawn button and GRASS. 10/10 would not recommend. ',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'I forgot my homework because my inventory space was full. At least I have Project-Hub!',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'You can\'t pause an online game, Mom. You can pause my education, though.',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'My teacher said \'Applying yourself is key.\' I thought \'F\' was the key to pay respects.',
+		rating: '10',
+		anonymous: false,
+	},
+	{
+		name: 'Saharsh Gobinath',
+		quote: 'I was playing Project-Hub at full volume on the Math Final, and the teacher took my gaming setup away. 0/10 This sucks',
+		rating: '0',
+		anonymous: false,
+	},
+	{
 		name: 'Christian Santangelo',
 		quote: "Project-Hub is always my number one pick for unblocked gaming whenever I'm feeling bored, and have nothing else to do.",
 		rating: '10',
