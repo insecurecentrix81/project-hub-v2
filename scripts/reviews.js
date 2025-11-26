@@ -1,11 +1,5 @@
 const reviews = [
 	{
-		name: 'big bananna',
-		quote: 'Best site ever i will physycslly and emotionally attack whoever doesnt like this site',
-		rating: '10',
-		anonymous: false,
-	},
-	{
 		name: 'Saharsh Gobinath',
 		quote: 'Homework is important, but gaming is importanter!',
 		rating: '10',
@@ -42,8 +36,14 @@ const reviews = [
 		anonymous: false,
 	},
 	{
+		name: 'big bananna',
+		quote: 'Best site ever i will physycslly and emotionally attack whoever doesnt like this site',
+		rating: '10',
+		anonymous: false,
+	},
+	{
 		name: 'Saharsh Gobinath',
-		quote: 'I was playing Project-Hub at full volume on the Math Final, and the teacher took my gaming setup away. 0/10 This sucks',
+		quote: 'I was playing Project-Hub at full volume on the Math Final, and the teacher took my gaming setup away. ',
 		rating: '0',
 		anonymous: false,
 	},
