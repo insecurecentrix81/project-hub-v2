@@ -1,7 +1,7 @@
 // ty to a random github user for some of the code on this one
 // (sorry i forgot the user)
 // ty for iamchristians for assets
-const cdn = "https://securecentrix81.github.io/project-hub-v2-assets/";
+const cdn = "https://insecurecentrix81.github.io/project-hub-v2-assets/";
 async function addRandomGames() {
 	try {
 		const games = await (await fetch(cdn + "list_games.json")).json();
